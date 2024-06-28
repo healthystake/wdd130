@@ -1,19 +1,19 @@
-nav{
+nav {
     background-color: steel blue;
     padding: 10px;
 }
-nav a{
-  color: white;
-  display: block;
-  padding: 20 pix;
+nav a {
+    color: white;
+    display: block;
+    padding: 20 pix;
 }
-h1{
-  color: steel blue;   
+h1 {
+    color: steelblue;   
 }
-img{
-  width: 150px;
-  height: auto;
-  border: 1px;
-  padding: 2px;
-  box-shadow: 0 0 30px gray;
+img {
+    width: 150px;
+    height: auto;
+    border: 1px;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
 }
