@@ -5,7 +5,7 @@ nav {
 nav a {
     color: white;
     display: block;
-    padding: 20 px;
+    padding: 20px;
 }
 h1 {
     color: steelblue;   
@@ -29,8 +29,12 @@ aside {
     color: #333;
     text-align: center;
 }
+aside image{
+    width: 200px;
+    height: auto;
+}
 main-image {
-    width:150px;
+    width: 150px;
     height: auto;
 }
 p { padding: 0;}
