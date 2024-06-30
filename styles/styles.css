@@ -5,7 +5,7 @@ nav {
 nav a {
     color: white;
     display: block;
-    padding: 20 pix;
+    padding: 20 px;
 }
 h1 {
     color: steelblue;   
@@ -18,7 +18,7 @@ img {
     box-shadow: 0 0 30px gray;
 }
 main {
-    max-width: 840pix;
+    max-width: 840px;
 }
 aside {
     width: 20rem;
